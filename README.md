@@ -1,1 +1,1 @@
-# rps.github.io
+# https://clonemode.github.io/rps.github.io/index.html
